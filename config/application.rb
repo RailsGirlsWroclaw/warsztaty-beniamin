@@ -18,5 +18,7 @@ module Workspace
     #
     # config.time_zone = "Central Time (US & Canada)"
     # config.eager_load_paths << Rails.root.join("extras")
+    
+    config.hosts << "beniutek-fuzzy-bassoon-5576g97qpqfvqxv-3000.preview.app.github.dev"
   end
 end
